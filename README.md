@@ -1,4 +1,4 @@
-<img align="center" height="320" width="650" src="https://github.com/HarpreetSingh3500/HarpreetSingh3500/blob/main/Gemini_Generated_Image_h24s3h24s3h24s3h.png">
+<img align="right" height="320" width="650" src="https://github.com/HarpreetSingh3500/HarpreetSingh3500/blob/main/Gemini_Generated_Image_h24s3h24s3h24s3h.png">
 <h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
 <h3 align="center">A passionate full stack developer, machine learning engineer from India</h3>
 
