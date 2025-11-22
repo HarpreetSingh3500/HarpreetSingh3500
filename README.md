@@ -1,3 +1,4 @@
+![logo](https://github.com/HarpreetSingh3500/HarpreetSingh3500/blob/main/Screenshot%202025-11-22%20131717.png)
 <h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
 <h3 align="center">A passionate full stack developer, machine learning engineer from India</h3>
 
