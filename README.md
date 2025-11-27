@@ -1,6 +1,6 @@
 <img align="center" height="320" width="700" src="https://github.com/HarpreetSingh3500/HarpreetSingh3500/blob/main/Gemini_Generated_Image_h24s3h24s3h24s3h.png">
 <h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
-<h3 align="center">A passionate full stack developer, machine learning engineer from India</h3>
+<h3 align="center">Final-Year BTech CSE • Full-Stack + ML • Punjabi University</h3>
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 
