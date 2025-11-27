@@ -14,8 +14,8 @@
   
 - **Featured Projects**  
 DashDine – Full-Stack Food Delivery (Live) → https://dashdine-app.onrender.com  
-Wanderlust – Airbnb Clone with Maps → https://wanderlust-hs3500.onrender.com  
-Fake News Detector – 95.57% Accuracy ML App → https://fake-news-detector-hs3500.onrender.com
+Wanderlust – Airbnb Clone with Maps → https://wanderlust-7dxz.onrender.com/listings  
+Fake News Detector – 95.57% Accuracy ML App → https://fake-news-detection-lxqv.onrender.com/
 
 - 📫 How to reach me **harpreerkm@gmail.com**
 
