@@ -11,6 +11,11 @@
 - 🔭 I’m currently working on [Dash Dine](https://github.com/HarpreetSingh3500/DashDine)
 
 - 🌱 I’m currently learning **Blockchain and Next.js**
+  
+- **Featured Projects**  
+DashDine – Full-Stack Food Delivery (Live) → https://dashdine-app.onrender.com  
+Wanderlust – Airbnb Clone with Maps → https://wanderlust-hs3500.onrender.com  
+Fake News Detector – 95.57% Accuracy ML App → https://fake-news-detector-hs3500.onrender.com
 
 - 📫 How to reach me **harpreerkm@gmail.com**
 
